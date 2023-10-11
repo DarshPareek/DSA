@@ -18,7 +18,7 @@ def findMinOperationBU(s1, s2, tempDict):
             if s1[i] != s2[j]:
                 matrix[i+1][j+1] = min(matrix[i][j],
                                        matrix[i+1][j], matrix[i][j+1]) + 1
-    #printmat(matrix)
+    # printmat(matrix)
     return matrix[len(s1)][len(s2)]
 
 
