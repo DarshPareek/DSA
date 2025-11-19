@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/dsa_lib_demo.dir/link.d CMakeFiles/dsa_lib_demo.dir/src/main.cpp.o -o dsa_lib_demo
