@@ -1,6 +1,6 @@
 CMakeFiles/dsa_lib_demo.dir/src/main.cpp.o: \
  /home/darsh/devel/DSA/impl/src/main.cpp /usr/include/stdc-predef.h \
- /home/darsh/devel/DSA/impl/src/LinkedList.cpp \
+ /home/darsh/devel/DSA/impl/src/Algorithms.cpp \
  /usr/include/c++/15.2.1/iostream \
  /usr/include/c++/15.2.1/bits/requires_hosted.h \
  /usr/include/c++/15.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -145,7 +145,9 @@ CMakeFiles/dsa_lib_demo.dir/src/main.cpp.o: \
  /usr/include/c++/15.2.1/bits/locale_facets.tcc \
  /usr/include/c++/15.2.1/bits/basic_ios.tcc \
  /usr/include/c++/15.2.1/bits/ostream.tcc /usr/include/c++/15.2.1/istream \
- /usr/include/c++/15.2.1/bits/istream.tcc /usr/include/c++/15.2.1/vector \
+ /usr/include/c++/15.2.1/bits/istream.tcc \
+ /home/darsh/devel/DSA/impl/src/LinkedList.cpp \
+ /usr/include/c++/15.2.1/vector \
  /usr/include/c++/15.2.1/bits/stl_uninitialized.h \
  /usr/include/c++/15.2.1/bits/stl_vector.h \
  /usr/include/c++/15.2.1/bits/stl_bvector.h \

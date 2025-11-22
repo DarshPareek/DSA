@@ -3,6 +3,7 @@
 
 CMakeFiles/dsa_lib_demo.dir/src/main.cpp.o
  /home/darsh/devel/DSA/impl/src/main.cpp
+ /home/darsh/devel/DSA/impl/src/Algorithms.cpp
  /home/darsh/devel/DSA/impl/src/LinkedList.cpp
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
